@@ -1,0 +1,13 @@
+D:\Visual Studio\Project\SQLInsert\SQLInsert\bin\Debug\SQLInsert.exe.config
+D:\Visual Studio\Project\SQLInsert\SQLInsert\bin\Debug\SQLInsert.exe
+D:\Visual Studio\Project\SQLInsert\SQLInsert\bin\Debug\SQLInsert.pdb
+D:\Visual Studio\Project\SQLInsert\SQLInsert\obj\Debug\SQLInsert.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Project\SQLInsert\SQLInsert\obj\Debug\SQLInsert.Form1.resources
+D:\Visual Studio\Project\SQLInsert\SQLInsert\obj\Debug\SQLInsert.Properties.Resources.resources
+D:\Visual Studio\Project\SQLInsert\SQLInsert\obj\Debug\SQLInsert.csproj.GenerateResource.Cache
+D:\Visual Studio\Project\SQLInsert\SQLInsert\obj\Debug\SQLInsert.exe
+D:\Visual Studio\Project\SQLInsert\SQLInsert\obj\Debug\SQLInsert.pdb
+D:\Visual Studio\Project\SQLInsert\SQLInsert\bin\Debug\SQLInsert.exe.manifest
+D:\Visual Studio\Project\SQLInsert\SQLInsert\bin\Debug\SQLInsert.application
+D:\Visual Studio\Project\SQLInsert\SQLInsert\obj\Debug\SQLInsert.exe.manifest
+D:\Visual Studio\Project\SQLInsert\SQLInsert\obj\Debug\SQLInsert.application
